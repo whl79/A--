@@ -550,4 +550,4 @@ df = ds_adapter.get_stock_news('000001')
 
 ---
 
-duckDB股票分析智能体 & QuantDinger量化交易平台
+懂量化数据源获取日志 & y20369@qq.com
